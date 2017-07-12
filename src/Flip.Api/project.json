@@ -22,12 +22,7 @@
         }
       }
     },
-    "net452": {
-      "dependencies": {
-        "Dlp.Flip.Core": {
-          "target": "project"
-        }
-      }
+    "net452": {      
     }
   }
 }
